@@ -4,6 +4,7 @@
 <hr/>
 <h2>Technical Skills</h2>
 <div dir=auto>
+  <p>
 <img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAetbzGvg2uakDnJ5S1HeU1I6J2Y74YfnoYA&usqp=CAU" title="HTML5" alt="HTML5" width="40" height="40" style="max-width: 100%;">
 <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTgVWTCzCkhOJgLQ1UxJfyaD23Yh3BAZhme8bONmR1CQ7M8-BNAbyI4d7vIhU2CvD-qCZU&usqp=CAU" title="CSS3" alt="CSS3" width="40" height="40" style="max-width: 100%;">
@@ -16,6 +17,7 @@
 <img src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" title="git" alt="git" width="40" height="40" style="max-width: 100%;">
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" title="VScode" alt="VScode" width="40" height="40" style="max-width: 100%;">
 <img src="https://www.svgrepo.com/show/354202/postman-icon.svg" title="Postman" alt="Postman" width="40" height="40" style="max-width: 100%;">
+  </p>
 </div>
 <!---
 ChrysanthiNouli/ChrysanthiNouli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
