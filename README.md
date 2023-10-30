@@ -1,6 +1,6 @@
 - 👋 Hi, I’m <a href="https://www.linkedin.com/in/chrysanthi-nouli-3aab30274/">Chrysanthi Nouli</a>, a full-stack web developer.
 - 👀 I’m interested in always learning and improving my skills.
-- 🌱 I’m currently a student at <a href="https://socialhackersacademy.org/">Social Hackers Academy</a>.
+- 🌱 I’m currently a student @<a href="https://socialhackersacademy.org/">Social Hackers Academy</a>.
 - <span>&#128231;</span> Contact me through <a href="mailto:chrysanthin@hotmail.com" target="_blank">Email</a> or <a href="https://www.linkedin.com/in/chrysanthi-nouli-3aab30274/">LinkedIn</a>
 <hr/>
 <h2>Technical Skills</h2>
