@@ -3,7 +3,9 @@
 - 🌱 I’m currently a student in <a href="https://socialhackersacademy.org/">Social Hackers Academy</a>.
 <hr/>
 <h2>Technical Skills</h2>
-<img src="https://github.com/devicons/devicon/raw/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+<img src="https://cdn.worldvectorlogo.com/logos/logo-javascript.svg" title="JavaScript" alt="JavaScript" width="40" height="40" style="max-width: 100%;">
+
   
 
 <!---
